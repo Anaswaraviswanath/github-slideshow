@@ -2,5 +2,5 @@
 layout.slide
 title:"welcome to second slide!"
 ---
-your text
+"Happy people do not have history"
 use'the left arrow to go back!'
